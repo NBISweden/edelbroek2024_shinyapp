@@ -1,0 +1,12 @@
+name: edelbroek_et_al_2024
+title: edelbroek_et_al_2024
+username: westholm
+account: westholm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11528183
+bundleId: 8390034
+url: https://westholm.shinyapps.io/edelbroek_et_al_2024/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

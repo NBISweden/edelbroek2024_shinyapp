@@ -1,0 +1,7 @@
+# required R packages
+shiny
+DT
+ggplot2
+grid
+gridExtra
+# scatterpie, get latest version from github devtools::install_github("GuangchuangYu/scatterpie")
